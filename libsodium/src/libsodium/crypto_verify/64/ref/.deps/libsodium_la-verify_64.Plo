@@ -1,0 +1,13 @@
+crypto_verify/64/ref/libsodium_la-verify_64.lo: \
+  crypto_verify/64/ref/verify_64.c crypto_verify/64/ref/api.h \
+  include/sodium/crypto_verify_64.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/stddef.h \
+  include/sodium/export.h
+
+crypto_verify/64/ref/api.h:
+
+include/sodium/crypto_verify_64.h:
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/stddef.h:
+
+include/sodium/export.h:

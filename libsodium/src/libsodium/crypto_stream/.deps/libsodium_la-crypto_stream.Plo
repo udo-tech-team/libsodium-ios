@@ -1,0 +1,12 @@
+crypto_stream/libsodium_la-crypto_stream.lo: \
+  crypto_stream/crypto_stream.c include/sodium/crypto_stream.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/stddef.h \
+  include/sodium/crypto_stream_xsalsa20.h include/sodium/export.h
+
+include/sodium/crypto_stream.h:
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include/stddef.h:
+
+include/sodium/crypto_stream_xsalsa20.h:
+
+include/sodium/export.h:
