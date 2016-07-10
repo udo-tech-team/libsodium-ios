@@ -4,9 +4,9 @@
 
 rm -rf libsodium
 set -e
-curl -O -L https://github.com/jedisct1/libsodium/releases/download/0.6.0/libsodium-0.6.0.tar.gz
+#curl -O -L https://github.com/jedisct1/libsodium/releases/download/0.6.0/libsodium-0.6.0.tar.gz
 tar xzf libsodium-0.6.0.tar.gz
-rm libsodium-0.6.0.tar.gz
+#rm libsodium-0.6.0.tar.gz
 mv libsodium-0.6.0 libsodium
 
 LIBNAME="libsodium.a"
